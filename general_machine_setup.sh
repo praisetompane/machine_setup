@@ -39,5 +39,9 @@ echo "installing mas"
 echo "done"
 
 echo "installing microsoft-edge"
-    brew uninstall microsoft-edge
+    brew install microsoft-edge
+echo "done"
+
+echo "installing docker"
+    brew install homebrew/cask/docker
 echo "done"
