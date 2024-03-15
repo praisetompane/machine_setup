@@ -42,6 +42,19 @@ echo "installing microsoft-edge"
     brew install microsoft-edge
 echo "done"
 
+echo "installing microsoft-teams"
+    brew install microsoft-teams
+echo "done"
+
+echo "installing microsoft-outlook"
+    brew install microsoft-outlook
+echo "done"
+
 echo "installing docker"
     brew install homebrew/cask/docker
 echo "done"
+
+echo "installing stats"
+    brew install stats
+echo "done"
+
