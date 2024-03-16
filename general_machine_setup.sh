@@ -58,3 +58,7 @@ echo "installing stats"
     brew install stats
 echo "done"
 
+echo "installing caffeine"
+    brew install caffeine
+echo "done"
+
