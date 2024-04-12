@@ -1,11 +1,15 @@
-sh ./package_management.sh
+zsh ./package_management.sh
 
-sh ./terminal.sh
+zsh ./terminal.sh
 
-sh ./text_editing.sh
+zsh ./text_editing.sh
 
-sh ./tree.sh
+zsh ./tree.sh
 
-sh ./asdf.sh
+zsh ./asdf.sh
 
-sh ./git.sh
+zsh ./git.sh
+
+zsh ./comunication.sh
+
+zsh ./logitech
