@@ -1,3 +1,3 @@
 echo "installing asdf"
-    brew install signal
+brew install asdf
 echo "done"
