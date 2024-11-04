@@ -1,30 +1,12 @@
 # programming_environment_setup
 
-objectives:
+a central repo to setup machine.
 
-- central repo to bootstrap development machine.
+## dependencies
+* zshell 
 
-## setup instructions:
-
-- install core software
-  ```shell
-      ./app.sh
-  ```
-- install git_facade:
-  ```shell
-      https://github.com/praisetompane/git_facade
-  ```
-
-## git conventions:
-
-- **NB:** the master is locked and all changes must come through a Pull Request.
-- commit messages:
-  - provide concise commit messages that describe what you have done.
-    ```shell
-    # example:
-    git commit -m "feat(core): algorithm" -m"implement my new shiny faster algorithm"
-    ```
-  - screen shot of Githb view
-  - references:
-    - https://www.conventionalcommits.org/en/v1.0.0/
-    - https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
+## setup instructions
+- execute the script below
+```shell
+./install.sh
+```

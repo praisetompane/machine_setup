@@ -1,3 +1,3 @@
-echo "installing microsoft-outlook"
-    brew install microsoft-outlook
+echo "installing zed"
+brew install zed
 echo "done"
