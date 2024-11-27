@@ -1,3 +1,3 @@
 echo "installing zed"
-brew install zed
+    brew install zed
 echo "done"
