@@ -1,4 +1,4 @@
-# programming_environment_setup
+# machine_setup
 
 a central repo to setup machine.
 
