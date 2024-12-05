@@ -1,3 +1,3 @@
 echo "installing signal"
-    brew install whatsapp
+    brew install --cask whatsapp
 echo "done"
