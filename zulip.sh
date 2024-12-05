@@ -1,3 +1,3 @@
 echo "installing zulip"
-    brew install zulip
+    brew install --cask zulip
 echo "done"

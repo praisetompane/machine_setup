@@ -1,3 +1,3 @@
 echo "installing slack"
-    brew install slack
+    brew install --cask slack
 echo "done"
