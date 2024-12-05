@@ -1,3 +1,3 @@
 echo "installing discord"
-    brew install discord
+    brew install --cask discord
 echo "done"

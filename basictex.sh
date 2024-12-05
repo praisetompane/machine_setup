@@ -1,5 +1,6 @@
 echo "installing tex"
     brew install basictex
+    eval "$(/usr/libexec/path_helper)"
     sudo tlmgr update --self
     sudo tlmgr install texliveonfly
     sudo tlmgr install xelatex
