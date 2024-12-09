@@ -20,8 +20,8 @@ echo "Please enter default editor":
 echo "done"
 
 echo "Generaing SSH key"
-    ssh-keygen -t id_ed25519_personal -C $email_address
-    ssh-add ~/.ssh/id_ed25519_personal
+    ssh-keygen -t id_ed25519 -C $email_address
+    ssh-add ~/.ssh/id_ed25519
 echo "done"
 
 echo "setting git pull to rebase default"
