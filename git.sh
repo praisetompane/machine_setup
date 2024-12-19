@@ -31,3 +31,8 @@ echo "done"
 echo "setting auto setup remote default"
     git config --global push.autoSetupRemote
 echo "done"
+
+echo "setup git global ignore"
+    echo "This useful for system wide no repo specific ignore"
+    git config --global core.excludesfile /Users/praisetompane/Library/Mobile\ Documents/com~apple~CloudDocs/global_config/.gitignore
+echo "done"
