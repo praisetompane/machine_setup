@@ -1,3 +1,3 @@
-echo "installing vlc"
+echo "Installing vlc"
     brew install --cask vlc
-echo "done"
+echo "Done Installing vlc"
