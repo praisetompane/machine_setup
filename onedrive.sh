@@ -1,3 +1,3 @@
-echo "installing onedrive"
+echo "Installing onedrive"
     brew install --cask onedrive
-echo "done"
+echo "Done Installing"

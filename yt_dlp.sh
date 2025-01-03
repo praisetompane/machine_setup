@@ -1,7 +1,7 @@
-echo "installing ffmpeg"
+echo "Installing Dependencies"
     brew install ffmpeg
-echo "done"
+echo "Done Installing Dependencies"
 
-echo "installing yt-dlp"
+echo "Installing yt-dlp"
     brew install yt-dlp
-echo "done"
+echo "Done Installing yt-dlp"

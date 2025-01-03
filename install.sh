@@ -1,7 +1,7 @@
 for file in *.sh; do
-    echo "executing: $file"
+    echo "Executing: $file"
     if [[ $file = "install.sh" ]]; then
-        echo "skipping the main install file to prevent an infinite loop"
+        echo "Skipping the main install file to prevent an infinite loop"
         continue
     fi
     zsh $file

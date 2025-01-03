@@ -1,3 +1,3 @@
-echo "installing logitune"
+echo "Installing logitune"
     brew install --cask logitune
-echo "done"
+echo "Done Installing logitune"

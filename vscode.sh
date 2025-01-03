@@ -1,3 +1,3 @@
-echo "installing visual-studio-code"
+echo "Installing visual-studio-code"
     brew install --cask visual-studio-code
-echo "done"
+echo "Done Installing visual-studio-code"

@@ -1,3 +1,3 @@
-echo "installing gpg"
+echo "Installing gpg"
     brew install gpg
-echo "done"
+echo "Done Installing gpg"

@@ -1,3 +1,3 @@
-echo "installing zoom"
+echo "Installing zoom"
     brew install --cask zoom
-echo "done"
+echo "Done Installing zoom"
