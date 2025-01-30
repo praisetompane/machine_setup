@@ -1,3 +1,3 @@
-echo "installing tree"
+echo "Installing tree"
     brew install tree
-echo "done"
+echo "Done Installing tree"

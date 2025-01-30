@@ -1,3 +1,3 @@
-echo "installing firefox"
+echo "Installing firefox"
     brew install --cask firefox
-echo "done"
+echo "Done Installing"

@@ -1,3 +1,3 @@
-echo "installing microsoft-teams"
+echo "Installing microsoft-teams"
     brew install --cask microsoft-teams
-echo "done"
+echo "Done Installing microsoft-teams"

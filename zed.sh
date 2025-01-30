@@ -1,3 +1,3 @@
-echo "installing zed"
+echo "Installing zed"
     brew install --cask zed
-echo "done"
+echo "Done Installing zed"

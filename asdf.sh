@@ -1,3 +1,3 @@
-echo "installing asdf"
+echo "Installing asdf"
     brew install asdf
-echo "done"
+echo "Done Installing asdf"

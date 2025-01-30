@@ -1,3 +1,3 @@
-echo "installing signal"
+echo "Installing signal"
     brew install --cask signal
-echo "done"
+echo "Done Installing signal"
