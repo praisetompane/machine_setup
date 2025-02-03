@@ -2,11 +2,17 @@
 
 a central repo to setup machine.
 
-## dependencies
-* zshell 
-
-## setup instructions
-- execute the script below
+## dependencies:
 ```shell
-./install.sh
+./brew.sh
+```
+
+## setup instructions:
+```shell
+# Please substitute package_name with a package(i.e. folder).
+./install.sh package_name
+```
+### example:
+```shell
+./install.sh text_editors
 ```
