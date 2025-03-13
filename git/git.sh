@@ -36,5 +36,7 @@ echo "Done"
 echo "setup git commit signing with ssh"
     git config --global gpg.format ssh
     git config --global user.signingkey $HOME/.ssh/id_ed25519.pub
+    git config --global commit.gpgSign true
+    git config --global tag.gpgSign true
 echo "done"
 
