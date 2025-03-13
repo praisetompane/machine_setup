@@ -31,3 +31,10 @@ echo "setup git global ignore"
     echo "This useful for system wide no repo specific ignore"
     git config --global core.excludesfile /Users/praisetompane/Documents/config/global_config/.gitignore
 echo "Done"
+
+
+echo "setup git commit signing with ssh"
+    git config --global gpg.format ssh
+    git config --global user.signingkey $HOME/.ssh/id_ed25519.pub
+echo "done"
+
