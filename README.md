@@ -2,7 +2,7 @@
 ![build status](https://github.com/praisetompane/machine_setup/actions/workflows/machine_setup.yaml/badge.svg) <br>
 
 ## Objectives
-An automated repo to setup machine.
+Automated machine setup. 
 
 ## Dependencies
 ```shell
