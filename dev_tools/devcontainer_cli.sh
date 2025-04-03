@@ -1,3 +1,3 @@
 echo "Installing devcontainer"
     brew install devcontainer
-echo "Done Installing"
+echo "Done Installing devcontainer"
