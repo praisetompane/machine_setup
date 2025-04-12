@@ -1,0 +1,13 @@
+close() {
+    # custom utility to close an application from terminal
+    # the opposite of "open -a app" on macOS.
+    # constraints:
+        # this will only be installed on macos, because it uses apple script
+
+    # Example:
+    # close "Docker Desktop" to close Docker Desktop app
+
+    app_name=$1
+    echo $app_name
+    osascript -e "quit app \"$app_name\""
+}
