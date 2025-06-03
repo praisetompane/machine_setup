@@ -1,4 +1,4 @@
-echo "Installing docker desktop"
+echo "Installing docker"
     brew install --cask docker
 echo "Done Installing"
 

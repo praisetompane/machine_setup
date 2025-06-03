@@ -2,11 +2,15 @@
 ![build status](https://github.com/praisetompane/machine_setup/actions/workflows/machine_setup.yaml/badge.svg) <br>
 
 ## Objectives
-Automated machine setup. 
+Automated machine setup.
 
 ## Dependencies
 ```shell
 ./brew.sh
+```
+
+```shell
+./asdf.sh
 ```
 
 ## Usage

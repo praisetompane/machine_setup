@@ -1,10 +1,8 @@
-# abbreviations
-svg
-
-
-# acronyms or abbreviations
+# acronyms/abbreviations
 MYINC
 env
+svg
+
 
 # authors
 Kernighan
@@ -12,8 +10,6 @@ Ritchie
 praisetompane
 tecnickcom
 
-
-# concepts
 
 # domain specific
 df
@@ -24,23 +20,26 @@ grlos
 rebase
 repo
 
-# course codes:
 
-
-# technology:
-yaml
-llvm
-pyspelling
-zshell
-
-# institutions:
+# institutions
 freecodecamp
 roadmap
 pypi
 hackerrank
 
 
-# urls:
+# places
+
+
+# technology
+yaml
+llvm
+pyspelling
+zshell
+asdf
+
+
+# urls
 https
 src
 conventionalcommits

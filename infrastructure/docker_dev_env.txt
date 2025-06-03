@@ -1,0 +1,17 @@
+base image used
+   docker run --name ubuntu-dev-env -e HOST_IP=10.13.7.40 --expose 3000 -p 3000:3000 -v '{YOUR_DIRECTORY}:/src' -t -i tecnickcom/alldev /bin/bash
+   https://hub.docker.com/r/tecnickcom/alldev/
+
+praise image
+   docker run --name ubuntu-dev-env -e HOST_IP=10.13.7.40 --expose 3000 -p 3000:3000 -v '{YOUR_DIRECTORY}:/src' -t -i praisetompane/ubuntu-development:v1.0.0 /bin/bash
+
+   docker run --name ubuntu-dev-env -e HOST_IP=192.168.101.238 --expose 3000 -p 3000:3000 -v '/Users/praisetompane:/src' -t -i praisetompane/ubuntu-development:v1.0.0 /bin/bash
+
+utilities
+   install git_facade
+
+commit changes
+   docker commit ubuntu-dev-env praisetompane/ubuntu-development:v1.0.0 && docker push praisetompane/ubuntu-development:v1.0.0
+
+# pull image
+   docker pull praisetompane/ubuntu-development:v1.0.0
