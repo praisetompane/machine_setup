@@ -24,7 +24,7 @@ Automated machine setup.
 # Please substitute package_name with a package(i.e. folder).
 ./install.sh package_name
 ```
-### Example:
+- Example:
 ```shell
 # Install text_editors package
 ./install.sh text_editors
